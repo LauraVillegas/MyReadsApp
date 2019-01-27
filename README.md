@@ -6,7 +6,7 @@ This is an app built with React which allows you to keep a log of books that you
 ## Download and set up
 
 To get started logging your books:
-* Download the app clicking here or clone this repository with: `` git clone link ``
+* Download the app clicking here or clone this repository with: `` git clone https://github.com/LauraVillegas/MyReadsApp.git``
 * install all project dependencies with `npm install`
 * start the development server with `npm start`
 
